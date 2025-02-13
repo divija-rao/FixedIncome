@@ -7,10 +7,10 @@ We will focus on Treasury bonds as our primary fixed income product due to their
 The project will progress from simple short-rate models to more sophisticated ones, providing a holistic view of interest rate modeling techniques. We will implement and compare various models, including Vasicek, Cox-Ingersoll-Ross (CIR), and Hull-White, using Monte Carlo simulation methods. This selection of models represents a natural progression in complexity and practical relevance within the short-rate modeling framework.
 
 Objectives:
-Develop a thorough understanding of Treasury bonds and their pricing mechanics 
-Implement and calibrate multiple interest rate models using historical data 
-Conduct Monte Carlo simulations to generate interest rate paths and price Treasury bonds 
-Compare the performance and accuracy of different models in various market scenarios 
+Develop a thorough understanding of Treasury bonds and their pricing mechanics
+Implement and calibrate multiple interest rate models using historical data
+Conduct Monte Carlo simulations to generate interest rate paths and price Treasury bonds
+Compare the performance and accuracy of different models in various market scenarios
 Analyze the sensitivity of bond prices to changes in model parameters and market conditions
 
 We will use Python as our primary programming language for model implementation and simulation, leveraging its robust financial libraries and data analysis tools.
