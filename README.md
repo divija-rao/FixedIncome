@@ -1,6 +1,4 @@
-[Work-in-Progress]
-
-Interest Rate Modeling: From Short Rates to Market Models
+Interest Rate Modeling: Short Rates to Market Models
 
 Interest rate modeling is a cornerstone of financial mathematics, playing a crucial role in the valuation of fixed income securities and derivatives. This project aims to develop a comprehensive understanding of interest rate dynamics and their impact on fixed income product pricing.
 
