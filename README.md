@@ -15,4 +15,4 @@ Analyze the sensitivity of bond prices to changes in model parameters and market
 
 We will use Python as our primary programming language for model implementation and simulation, leveraging its robust financial libraries and data analysis tools.
 
-If time permits, we will explore the Heath-Jarrow-Morton (HJM) framework as an introduction to market models, bridging the gap between short-rate models and more advanced techniques in interest rate modeling.
+We will explore the Brace-Gatarek-Musiela (BGM) framework as an introduction to market models, bridging the gap between short-rate models and more advanced techniques in interest rate modeling.
