@@ -1,6 +1,4 @@
-[Work-in-Progress]
-
-Interest Rate Modeling: From Short Rates to Market Models
+Interest Rate Modeling: Short Rates to Market Models
 
 Interest rate modeling is a cornerstone of financial mathematics, playing a crucial role in the valuation of fixed income securities and derivatives. This project aims to develop a comprehensive understanding of interest rate dynamics and their impact on fixed income product pricing.
 
@@ -17,4 +15,4 @@ Analyze the sensitivity of bond prices to changes in model parameters and market
 
 We will use Python as our primary programming language for model implementation and simulation, leveraging its robust financial libraries and data analysis tools.
 
-If time permits, we will explore the Heath-Jarrow-Morton (HJM) framework as an introduction to market models, bridging the gap between short-rate models and more advanced techniques in interest rate modeling.
+We will explore the Brace-Gatarek-Musiela (BGM) framework as an introduction to market models, bridging the gap between short-rate models and more advanced techniques in interest rate modeling.
