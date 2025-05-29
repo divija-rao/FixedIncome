@@ -75,7 +75,7 @@ This project focuses on interest rate modeling, exploring short-rate models (Vas
 - Pricing results compared model estimates to market prices for securities like T-bills, Treasury Bonds, TIPS, and corporate bonds (see Page 27 of the presentation).
 
 ### Trading Strategies
-Based on the Medium article ["Cracking the Yield Curve Code"](https://medium.com/@divijarao.b/cracking-the-yield-curve-code-d68ce7d3f02f) written by Divija Balasankula, the following trading strategies were developed:
+Based on the Medium article ["Cracking the Yield Curve Code"](https://medium.com/@divijarao.b/cracking-the-yield-curve-code-d68ce7d3f02f) written by Divija Balasankula, the following trading strategies are proposed:
 1. **Yield Curve Arbitrage**:
    - Exploit discrepancies between model-predicted yields (e.g., Vasicek 2F, BGM) and observed market yields.
    - Strategy: Buy bonds undervalued by the model and sell overvalued bonds, focusing on mispriced T-bills and Treasury Bonds.
