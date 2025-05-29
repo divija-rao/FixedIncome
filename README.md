@@ -176,7 +176,7 @@ For questions or collaboration, reach out to:
 
 ## Acknowledgments
 - Academic Advisors: Dr. Tao Pang, Mr. Patrick Roberts
-- Institution: NISHIE University, Financial Mathematics Department
+- Institution: NC State University, Financial Mathematics Department
 
 ---
 
