@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project, conducted under the guidance of Dr. Tao Pang and Mr. Patrick Roberts at NC State University, focuses on interest rate modeling, exploring short-rate models (Vasicek, Cox-Ingersoll-Ross (CIR), Hull-White) and market models (Brace-Gatarek-Musiela (BGM)). The objective is to model interest rate dynamics, calibrate models to historical yield curve data, and evaluate their performance in pricing bonds and forecasting yield curves. The project leverages financial mathematics to price zero-coupon bonds (ZCBs), coupon bonds, and derivatives like swaptions, with applications in risk management and trading strategies.
+This project focuses on interest rate modeling, exploring short-rate models (Vasicek, Cox-Ingersoll-Ross (CIR), Hull-White) and market models (Brace-Gatarek-Musiela (BGM)). The objective is to model interest rate dynamics, calibrate models to historical yield curve data, and evaluate their performance in pricing bonds and forecasting yield curves. The project leverages financial mathematics to price zero-coupon bonds (ZCBs), coupon bonds, and derivatives like swaptions, with applications in risk management and trading strategies.
 
 **Team Members:**
 - **Divija Balasankula** (Project Leader): drbalasa@ncsu.edu
@@ -175,7 +175,7 @@ For questions or collaboration, reach out to:
 - Isaac Gohn: iegohn@ncsu.edu
 
 ## Acknowledgments
-- Academic Advisors: Dr. Tao Pang, Mr. Patrick Roberts
+- Academic Advisors: Dr. Tao Pang
 - Institution: NC State University, Financial Mathematics Department
 
 ---
