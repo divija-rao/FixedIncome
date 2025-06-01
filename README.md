@@ -169,10 +169,8 @@ interest-rate-modeling/
 - Validate models with additional datasets (e.g., Eurozone yields).
 
 ## Contact
-For questions or collaboration, reach out to:
-- Divija Balasankula: drbalasa@ncsu.edu
-- Jacob Dolan: jddolan@ncsu.edu
-- Isaac Gohn: iegohn@ncsu.edu
+For questions or collaboration, reach out to Divija Balasankula: drbalasa@ncsu.edu
+
 
 ## Acknowledgments
 - Academic Advisors: Dr. Tao Pang
